@@ -33,7 +33,8 @@ Suba a solução Calculadora para o seu repositório remoto.
 Tecnologias Ultilizads: 
 -Liguagem de Progamação feita em Java.
 -Junit.
+-VS code.
 
-Foi criada a classe com nome "Calculadora.java" onde foi colocada as funções do código para a realizaçãoes das operações (Soma,Substraçã,Dibidir, Multiplicar, pontenciar )
+Foi criada a classe com nome "Calculadora.java" onde foi colocada as funções do código para a realizaçãoes das operações (soma, substração, dividir, multiplicar e pontenciar).
 
-Também criamos a Classe "CalculadoraTeste.java" para testa com a tecnologia Junit , foram realizados teste a cada função criada dando com resultado correto. 
+Também criamos a Classe "CalculadoraTeste.java" para testar com a tecnologia Junit, foram realizados um teste para cada método criado utilizando o padrão AAA no final comparando o resultado do método com o resultado esperado. 
